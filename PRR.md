@@ -8,7 +8,7 @@ By [PROJECT REVERSED REALITY](https://discord.gg/bDWnVPQW8h "PROJECT REVERSED RE
 
 > PROJECT REVERSED REALITY is a community which was recently bought by a few of the players who loved the server to keep it alive when the original owner was going to shut it down. Please Join [Our Discord](https://discord.gg/bDWnVPQW8h "PROJECT REVERSED REALITY Discord") To stay up to date on updates/announcements!
 
- ![alt text](https://github.com/Mitch3902/Escape-From-DeerIsle/blob/main/Escape_From_DayZ_DeerIsle.png?raw=true "Loading Screen")
+ ![alt text](https://github.com/Mitch3902/ProjectReversedReality/blob/main/Screenshot%202023-10-26%20115129.png?raw=true "Loading Screen")
 
 ## Server Description
 
