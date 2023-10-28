@@ -39,6 +39,8 @@ PROJECT REVERSED REALITY is a PvP DayZ server that flips the REALITY of Chernaru
         - Helicopters
         - No Vehicle Damage
         - Many Weapon Mods
-
+  ## LOOT TIER  SYSTEM EXAMPLE LIGHTGREEN=T1 DARKGREEN=T2 BLUE=T3 YELLOW=T4
+ ![alt text](https://github.com/Mitch3902/ProjectReversedReality/blob/main/image.png?raw=true "Loading Screen")
+ ## MAP CHANGES BASED ON THE SEASON!
  ![alt text](https://github.com/Mitch3902/ProjectReversedReality/blob/main/20231028112930_1.jpg?raw=true "Loading Screen")
 
