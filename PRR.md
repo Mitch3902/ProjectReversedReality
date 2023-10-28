@@ -8,7 +8,7 @@ By [PROJECT REVERSED REALITY](https://discord.gg/bDWnVPQW8h "PROJECT REVERSED RE
 
 > PROJECT REVERSED REALITY is a community which was recently bought by a few of the players who loved the server to keep it alive when the original owner was going to shut it down. Please Join [Our Discord](https://discord.gg/bDWnVPQW8h "PROJECT REVERSED REALITY Discord") To stay up to date on updates/announcements!
 
- ![alt text](https://github.com/Mitch3902/ProjectReversedReality/blob/main/Screenshot%202023-10-26%20115129.png?raw=true "Loading Screen")
+ ![alt text](https://github.com/Mitch3902/ProjectReversedReality/blob/main/Screenshot%202023-10-26%20115129.png?raw=true "Picture")
 
 ## Server Description
 
@@ -40,4 +40,5 @@ PROJECT REVERSED REALITY is a PvP DayZ server that flips the REALITY of Chernaru
         - No Vehicle Damage
         - Many Weapon Mods
 
+ ![alt text](https://github.com/Mitch3902/ProjectReversedReality/blob/main/20231028112930_1.jpg?raw=true "Loading Screen")
 
